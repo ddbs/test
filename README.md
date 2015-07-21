@@ -11,7 +11,7 @@
 
 `class(x)` 
 
-`typeoff(x)` check the type of the object 
+`typeof(x)` check the type of the object 
 
 `length(x)` check the length of the object 
 
