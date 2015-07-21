@@ -1,24 +1,6 @@
 # test
 
 
+## Workspaces
 
-c()  _create an empty vector_
-
-c(x,y)  _create a vector from x and y lists_
-
-vector.name[-(1,3)]
-
-  vector.name[-(1,3)]
-  
-    vector.name[-(1,3)]
-
-
-´´´vector.name[-(1,3)]´´´
-
-´´vector.name[-(1,3)]´´
-
-*vector.name[-(1,3)]*
-
-**vector.name[-(1,3)]**
-
-`vector.name[-(1,3)]`  this is inline code
+`rm(list = ls())` remove all objects from current environment
