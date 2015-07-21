@@ -11,6 +11,12 @@
 
 `class(x)` 
 
+`typeoff(x)` check the type of the object 
+
+`length(x)` check the length of the object 
+
+`attributes(x)` check if the object has any metadada
+
 `head(dataset,n)` see first rows
 
 `tail(dataset,n)` see last rows
