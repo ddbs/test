@@ -7,7 +7,7 @@
 
 
 
-## Research
+## Preview data
 
 `class(x)` 
 
